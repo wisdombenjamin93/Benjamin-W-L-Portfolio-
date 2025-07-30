@@ -49,13 +49,13 @@ Familiar with cloud-based collaboration tools for document editing, scheduling, 
 
 ## MY PROJECTS
 
-#### Kultra Superstore U.S. Branch Performance Analysis for Canadian Expansion
+### *Kultra Superstore U.S. Branch Performance Analysis for Canadian Expansion*
 ![image](Picture1.png)
 ### [READ MORE](https://mavenanalytics.io/project/39826)
 <a href="Benjamin W,L_U.S Superstore (Capstone Project).pdf">Download the PDF Report here (pdf file)</a> 
 
 
-#### SQL Murder Mystery: A Data-Driven Investigation
+### *SQL Murder Mystery: A Data-Driven Investigation*
 ![image](1_UnAxT7FoWKPARLWcwquoNw[1].jpeg)
 ### [READ MORE](https://mavenanalytics.io/project/40007)
 <a href="[Benjamin WL] SQL Murder Mystery Investigation.pdf">Download the PDF Report here (pdf file)</a> 
