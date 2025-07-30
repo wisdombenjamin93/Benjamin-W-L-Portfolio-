@@ -63,4 +63,6 @@ Familiar with cloud-based collaboration tools for document editing, scheduling, 
 
 
 #### SQL Murder Mystery: A Data-Driven Investigation
-![image](Picture1.png)
+![image](1_UnAxT7FoWKPARLWcwquoNw[1].jpeg)
+### [READ MORE](https://mavenanalytics.io/project/40007)
+<a href="Benjamin W,L_U.S Superstore (Capstone Project).pdf">Download the PDF Report here (pdf file)</a> 
