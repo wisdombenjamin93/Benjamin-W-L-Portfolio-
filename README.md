@@ -47,13 +47,6 @@ Familiar with cloud-based collaboration tools for document editing, scheduling, 
 * Team Leadership
 
 
-## Contact Information
-📧Email: wisdombenjamin93@gmail.com
-
-🔗LinkedIn Profile: www.linkedin.com/in/wisdom-benjamin-27b4052a2
-
-📞Phone: +2347062888271 
-
 ## MY PROJECTS
 
 #### Kultra Superstore U.S. Branch Performance Analysis for Canadian Expansion
@@ -65,4 +58,12 @@ Familiar with cloud-based collaboration tools for document editing, scheduling, 
 #### SQL Murder Mystery: A Data-Driven Investigation
 ![image](1_UnAxT7FoWKPARLWcwquoNw[1].jpeg)
 ### [READ MORE](https://mavenanalytics.io/project/40007)
-<a href="Benjamin W,L_U.S Superstore (Capstone Project).pdf">Download the PDF Report here (pdf file)</a> 
+<a href="[Benjamin WL] SQL Murder Mystery Investigation.pdf">Download the PDF Report here (pdf file)</a> 
+
+
+## Contact Information
+📧Email: wisdombenjamin93@gmail.com
+
+🔗LinkedIn Profile: www.linkedin.com/in/wisdom-benjamin-27b4052a2
+
+📞Phone: +2347062888271 
