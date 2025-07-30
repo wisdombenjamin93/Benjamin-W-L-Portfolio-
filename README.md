@@ -59,4 +59,4 @@ Familiar with cloud-based collaboration tools for document editing, scheduling, 
 #### Kultra Superstore U.S. Branch Performance Analysis for Canadian Expansion
 ![image](Picture1.png)
 ### [READ MORE](https://mavenanalytics.io/project/39826)
-<a href= "
+<a href="Benjamin W,L_U.S Superstore (Capstone Project).pdf">Download the PDF Report here (pdf file)</a> 
