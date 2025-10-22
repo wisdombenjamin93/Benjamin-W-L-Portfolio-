@@ -61,6 +61,12 @@ Familiar with cloud-based collaboration tools for document editing, scheduling, 
 <a href="[Benjamin WL] SQL Murder Mystery Investigation.pdf">Download the PDF Report here (pdf file)</a> 
 
 
+### *MyGym Membership Analytics*
+
+### [READ MORE](https://mavenshowcase.com/project/52118)
+<a href="">Download the PDF Report here (pdf file)</a> 
+
+
 ## Contact Information
 📧Email: wisdombenjamin93@gmail.com
 
